@@ -16,7 +16,7 @@ def main():
 
     # Reading file .....
     df = pd.read_csv(
-        "/Users/quantum/Desktop/recomender/Recommender_Data/movie_dataset.csv")
+        "movie_dataset.csv")
 
     # Selecting features ...
     com_features = ['keywords', 'cast', 'genres', 'director']
