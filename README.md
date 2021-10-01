@@ -23,8 +23,8 @@ Data has been collected from kaggle.com
 ## Data Wrangling and feature engineering used
 
 ```
-Data wrangling purposes I have used pandas libraries.
-Fearture engineering I have used one-hot encoding and nomnal encoding 
+Data wrangling purposes I have used mainly pandas,lambda function ,numpy ,regex & etc.
+Fearture engineering I have used one-hot encoding and nominal encoding 
 
 ```
 
@@ -32,7 +32,7 @@ Fearture engineering I have used one-hot encoding and nomnal encoding
 ## Model Selection and Evaluation
 
 ```
-Model trained on RandomforestRegressor evaluation checked by r^2 value
+Model was trained on RandomforestRegressor evaluation checked by r^2 value
 
 ```
 
