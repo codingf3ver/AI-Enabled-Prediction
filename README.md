@@ -1,28 +1,51 @@
 
 
-# AI-Enabled-Prediction
+# AI-Enabled-Predictor
 ``` 
 AI Enabled Predictive Web Application is a singe platform where you can get flight price prediction as well 
 as movie recommendation without hunting for other websites.
 
 ```
 
-# Application Link
+## Application Link
 
 ```
 http://ai-enabled-predictor.herokuapp.com
 
 ```
 
-# Documentation
+## Data Source
+
+```
+Data has been collected from kaggle.com
+
+```
+## Data Wrangling and feature engineering used
+
+```
+Data wrangling purposes I have used pandas libraries.
+Fearture engineering I have used one-hot encoding and nomnal encoding 
+
+```
+
+
+## Model Selection and Evaluation
+
+```
+Model trained on RandomforestRegressor evaluation checked by r^2 value
+
+```
+
+## Documentation
 ``` 
 Follow the given intructions which will help you to run this application in local environment as well as
-you can host it in custom domain.
+you can host it in your custom domain.
+
 ```
 ## Python Installation
 
 ```
-Open your terminal or command prompt Check if python installed or not by 
+Open your terminal or command prompt check if python installed or not by 
   
   > python -V    
  
@@ -46,7 +69,7 @@ If not then download from the given link as per your O.S
   
   > https://git-scm.com/downloads
   
-  > Now download file which is similar to your Operating System.
+  > Now download file which is according to the Operating System.
   
 ```
 
@@ -97,7 +120,7 @@ it will open up in your default browser.
 ```
 Create a github reository  by visiting the top right corner of your
  
-  > Navigate on repository
+  > Navigate on repository section
   
   > Click on 'Create a new repostiory' 
   
